@@ -4,7 +4,7 @@
 我叫wilson，目前是一位准入行的程序员，默认自己快入行了
 
   
-目前正在学习的编程语言是前端方向的 HTML CSS JavaScript
+目前正在学习的编程语言是前端方向的 `HTML` `CSS` `JavaScript`
 
 ```javaScript
 
