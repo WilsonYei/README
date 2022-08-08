@@ -9,7 +9,6 @@
 ```javaScript
 
 console.log('hello,world');
-console.log('还停留在打hello,world的阶段');
 
 ````
 
